@@ -2,6 +2,7 @@
 repository = "https://github.com/SuperInstance/character-encounter"
 name = "character-encounter"
 version = "0.1.0"
+license = "MIT OR Apache-2.0"
 edition = "2021"
 description = "RPG encounter engine — the runtime where character sheets (.nail bundles) come alive"
 
